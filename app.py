@@ -1,9 +1,9 @@
 wordEncode = ["good","thankyou","trouble","write"]
-try:
-    from tensorflow_docs.vis import embed
-except:
-    __import__("os").system("pip install -q git+https://github.com/tensorflow/docs")
-    from tensorflow_docs.vis import embed
+# try:
+#     from tensorflow_docs.vis import embed
+# except:
+#     __import__("os").system("pip install -q git+https://github.com/tensorflow/docs")
+#     from tensorflow_docs.vis import embed
 from tensorflow.keras import layers
 from tensorflow import keras
 import tensorflow as tf

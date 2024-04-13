@@ -9,7 +9,5 @@ Designed a Interpreter to convert Sign-Language video into text to reduce Commun
 
 Watch a demo of the Sign-Language Interpreter in action:
 
-<video width="640" height="360" controls>
-    <source src="https://github.com/sakshi2215/PotentialModel/raw/main/video%20(1).mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+https://github.com/sakshi2215/PotentialModel/assets/116375190/f4c2e75e-ea6b-43cf-9ba9-59cd1b318903
+
